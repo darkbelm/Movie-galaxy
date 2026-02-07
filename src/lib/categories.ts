@@ -1,0 +1,15 @@
+export const categories = [
+  { slug: "action", name: "Action", genre: 28, icon: "💥" },
+  { slug: "comedy", name: "Comedy", genre: 35, icon: "😂" },
+  { slug: "drama", name: "Drama", genre: 18, icon: "🎭" },
+  { slug: "scifi", name: "Sci-Fi", genre: 878, icon: "🚀" },
+  { slug: "horror", name: "Horror", genre: 27, icon: "👻" },
+  { slug: "romance", name: "Romance", genre: 10749, icon: "❤️" },
+  { slug: "thriller", name: "Thriller", genre: 53, icon: "🧠" },
+  { slug: "animation", name: "Animation", genre: 16, icon: "🎌" },
+  { slug: "adventure", name: "Adventure", genre: 12, icon: "🗺️" },
+  { slug: "crime", name: "Crime", genre: 80, icon: "🕵️‍♂️" },
+  { slug: "documentary", name: "Documentary", genre: 99, icon: "🎥" },
+  { slug: "family", name: "Family", genre: 10751, icon: "👨‍👩‍👧‍👦" },
+  { slug: "fantasy", name: "Fantasy", genre: 14, icon: "🐉" },
+];
